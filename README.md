@@ -10,7 +10,7 @@ Para executar o código, certifique-se de ter o Ruby instalado. Siga os passos a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/NomeDoRepositorio.git
+   git clone https://github.com/Grund89/algoritmos_ruby.git
    ```
 2. Navegue até o diretório do repositório:
    ```bash
