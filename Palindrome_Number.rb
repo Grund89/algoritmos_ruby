@@ -12,3 +12,9 @@ def is_palindrome(x)
   end
 
 end
+
+# test
+
+puts is_palindrome(121)
+puts is_palindrome(-121)
+puts is_palindrome(10)
