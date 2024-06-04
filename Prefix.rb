@@ -11,6 +11,7 @@ def longest_common_prefix(strs)
   first_str = strs.first
   last_str = strs.last
 
+  i = 0
   while i < first_str.length && first_str[i] == last_str[i]
     i += 1
   end
