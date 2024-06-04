@@ -17,3 +17,9 @@ def longest_common_prefix(strs)
 
   first_str[0...i]
 end
+
+# Test
+puts longest_common_prefix(["flower", "flow", "flight"]) # "fl"
+puts longest_common_prefix(["dog", "racecar", "car"])    # ""
+puts longest_common_prefix(["interspecies", "interstellar", "interstate"]) # "inters"
+puts longest_common_prefix([])
